@@ -28,7 +28,7 @@ agent any
 
             steps{
 
-            sh 'java Simple'
+            sh 'java HellooWorld'
 
             }
 
